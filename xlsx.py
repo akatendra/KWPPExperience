@@ -105,6 +105,3 @@ def col_header_style(work_book, work_sheet):
             cell.style = 'rladies_col_header'
 
 
-if __name__ == '__main__':
-    # create_xlsx_file('r_ladies_us.xlsx')
-    hyperlink_style('r_ladies_us.xlsx')
